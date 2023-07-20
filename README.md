@@ -1,6 +1,11 @@
 # EjercicioAPIS
 Utilizando un software para pruebas de servicios REST realizar las siguientes pruebas, identificando las entradas, capturando las salidas, test, variables, etc, en cada uno de los siguientes casos:
 
+• Añadir una mascota a la tienda
+• Consultar la mascota ingresada previamente (Búsqueda por ID)
+• Actualizar el nombre de la mascota y el estatus de la mascota a “sold”
+• Consultar la mascota modificada por estatus (Búsqueda por estatus)
+
 
 Instrucciones de Ejecución:
 
