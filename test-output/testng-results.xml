@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-26T21:50:47 COT" name="Suite-karate-tests/get_pet_by_status.feature" finished-at="2023-07-26T21:50:47 COT" duration-ms="0">
+  <suite started-at="2023-07-26T23:55:54 COT" name="Suite-com/prueba/karate/tests/add_pet.feature" finished-at="2023-07-26T23:55:54 COT" duration-ms="0">
     <groups>
     </groups>
-  </suite> <!-- Suite-karate-tests/get_pet_by_status.feature -->
-  <suite started-at="2023-07-26T21:50:47 COT" name="Suite-karate-tests/get_pet_by_id.feature" finished-at="2023-07-26T21:50:47 COT" duration-ms="0">
+  </suite> <!-- Suite-com/prueba/karate/tests/add_pet.feature -->
+  <suite started-at="2023-07-26T23:55:54 COT" name="Suite-com/prueba/karate/tests/get_pet_by_id.feature" finished-at="2023-07-26T23:55:54 COT" duration-ms="0">
     <groups>
     </groups>
-  </suite> <!-- Suite-karate-tests/get_pet_by_id.feature -->
-  <suite started-at="2023-07-26T21:50:47 COT" name="Suite-karate-tests/add_pet.feature" finished-at="2023-07-26T21:50:47 COT" duration-ms="0">
+  </suite> <!-- Suite-com/prueba/karate/tests/get_pet_by_id.feature -->
+  <suite started-at="2023-07-26T23:55:54 COT" name="Suite-com/prueba/karate/tests/get_pet_by_status.feature" finished-at="2023-07-26T23:55:54 COT" duration-ms="0">
     <groups>
     </groups>
-  </suite> <!-- Suite-karate-tests/add_pet.feature -->
-  <suite started-at="2023-07-26T21:50:47 COT" name="Suite-karate-tests/update_pet.feature" finished-at="2023-07-26T21:50:47 COT" duration-ms="0">
+  </suite> <!-- Suite-com/prueba/karate/tests/get_pet_by_status.feature -->
+  <suite started-at="2023-07-26T23:55:54 COT" name="Suite-com/prueba/karate/tests/update_pet.feature" finished-at="2023-07-26T23:55:54 COT" duration-ms="0">
     <groups>
     </groups>
-  </suite> <!-- Suite-karate-tests/update_pet.feature -->
+  </suite> <!-- Suite-com/prueba/karate/tests/update_pet.feature -->
 </testng-results>
