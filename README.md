@@ -10,8 +10,9 @@ Utilizando un software para pruebas de servicios REST realizar las siguientes pr
 Instrucciones para ejecutar las pruebas Karate API desde la terminal y desde el IDE:
 
 1. Requisitos previos:
-   - Asegúrate de tener Java JDK 8 (o una versión superior) instalado en tu sistema.
+   - Asegúrate de tener Java JDK 11  instalado en tu sistema.
    - Asegúrate de tener Maven instalado en tu sistema (si deseas ejecutar las pruebas desde la terminal).
+![image](https://github.com/antoniomiles/EjercicioAPIS/assets/31042668/31319477-a537-4f4d-a0fd-66c1240d4e29)
 
 2. Descargar el proyecto:
    - Descarga el proyecto "EjercicioAPIS" desde el repositorio git (o extrae el código fuente si lo tienes en un archivo ZIP).
